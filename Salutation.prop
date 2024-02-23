@@ -1,0 +1,13 @@
+{
+	"modules": { 
+		"Salutation": {
+			"version": "1.0",
+			"name": "Salutation",
+			"rules": {
+				"ditBonjour": ["hello","good morning"],
+				"disBonsoir": ["good evening"]
+			}
+		}
+	}
+}
+			
